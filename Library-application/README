@@ -1,0 +1,30 @@
+#Name: Spinochi Andreea
+#Class: 312CA
+
+##The Library of HashBabel - Homework 2
+
+###Description:
+
+    This project was about implementing a library system, using the CLI.
+The implementation is based on the use of hashtables, for which is used the
+skeleton from the laboratory. To add books to the library I used the add
+function in which I first added the definitions of a book and then the book
+itself. The rest of the library system consists of getting a book, removing it
+and its definitions.
+    The other part is a hashtable for the users of the library. Every user can
+borrow, return or lose a book. So in order to take into account each book,
+I made a string that keeps the name of the book borrowed by any user.
+
+
+### Comments on the homework:
+
+*Do you think you could have done a better implementation?
+ Maybe I could if I had a lot of free time.
+
+*What did you learn from this homework?
+ I think the homework worked perfectly to help me perfect the implementation of
+hashtables.
+
+### Resources / Bibliography:
+
+1. https://www.javatpoint.com/program-to-sort-the-elements-of-the-singly-linked-list
